@@ -1,0 +1,11 @@
+L:\olu\_FirstProject\Number Guesser 2\bin\Debug\netcoreapp2.1\Number Guesser 2.deps.json
+L:\olu\_FirstProject\Number Guesser 2\bin\Debug\netcoreapp2.1\Number Guesser 2.runtimeconfig.json
+L:\olu\_FirstProject\Number Guesser 2\bin\Debug\netcoreapp2.1\Number Guesser 2.runtimeconfig.dev.json
+L:\olu\_FirstProject\Number Guesser 2\bin\Debug\netcoreapp2.1\Number Guesser 2.dll
+L:\olu\_FirstProject\Number Guesser 2\bin\Debug\netcoreapp2.1\Number Guesser 2.pdb
+L:\olu\_FirstProject\Number Guesser 2\obj\Debug\netcoreapp2.1\Number Guesser 2.csprojAssemblyReference.cache
+L:\olu\_FirstProject\Number Guesser 2\obj\Debug\netcoreapp2.1\Number Guesser 2.csproj.CoreCompileInputs.cache
+L:\olu\_FirstProject\Number Guesser 2\obj\Debug\netcoreapp2.1\Number Guesser 2.AssemblyInfoInputs.cache
+L:\olu\_FirstProject\Number Guesser 2\obj\Debug\netcoreapp2.1\Number Guesser 2.AssemblyInfo.cs
+L:\olu\_FirstProject\Number Guesser 2\obj\Debug\netcoreapp2.1\Number Guesser 2.dll
+L:\olu\_FirstProject\Number Guesser 2\obj\Debug\netcoreapp2.1\Number Guesser 2.pdb
